@@ -1,0 +1,193 @@
+[2020-01-14T23:54:56+07:00][info] request: {"cam_id":"1","person_count":"2"}
+[2020-01-14T23:54:57+07:00][info] response: 
+[2020-01-14T23:55:02+07:00][info] request: {"person_count":"2"}
+[2020-01-14T23:55:02+07:00][error] ["cam_id is required"]
+[2020-01-14T23:55:09+07:00][info] request: {"cam_id":"1"}
+[2020-01-14T23:55:09+07:00][error] ["person_count is required"]
+[2020-01-14T23:55:15+07:00][info] request: []
+[2020-01-14T23:55:15+07:00][error] ["cam_id is required","person_count is required"]
+[2020-01-15T08:01:38+07:00][info] request: []
+[2020-01-15T08:01:38+07:00][error] ["cam_id is required","person_count is required"]
+[2020-01-15T08:01:46+07:00][info] request: []
+[2020-01-15T08:01:46+07:00][error] ["cam_id is required","person_count is required"]
+[2020-01-15T08:01:48+07:00][info] request: []
+[2020-01-15T08:01:48+07:00][error] ["cam_id is required","person_count is required"]
+[2020-01-15T08:01:50+07:00][info] request: []
+[2020-01-15T08:01:50+07:00][error] ["cam_id is required","person_count is required"]
+[2020-01-15T10:08:27+07:00][info] request: []
+[2020-01-15T10:08:27+07:00][error] ["cam_id is required","person_count is required"]
+[Wed, 15 Jan 20 16:49:15 +0700][INFO] request: {"cam_id":"1","person_count":"2"}
+[Wed, 15 Jan 20 16:50:17 +0700][INFO] request: {"cam_id":"1","person_count":"2"}
+[Wed, 15 Jan 20 16:50:17 +0700][INFO] response: 
+[Wed, 15 Jan 20 16:51:31 +0700][INFO] request: {"cam_id":"1"}
+[Wed, 15 Jan 20 16:51:31 +0700][ERROR] ["person_count is required"]
+[Wed, 15 Jan 20 16:51:37 +0700][INFO] request: {"cam_id":"1","person_count":"2"}
+[Wed, 15 Jan 20 16:51:37 +0700][INFO] response: 
+[Wed, 15 Jan 20 17:04:46 +0700][INFO] request: {"cam_id":"1"}
+[Wed, 15 Jan 20 17:04:46 +0700][ERROR] ["person_count is required"]
+[Wed, 15 Jan 20 17:05:11 +0700][INFO] request: {"cam_id":"1","person_count":"2"}
+[Wed, 15 Jan 20 18:11:09 +0700][INFO] request: {"cam_id":"1","person_count":"2"}
+[Wed, 15 Jan 20 18:11:09 +0700][INFO] response: 
+[Thu, 16 Jan 20 10:06:02 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 10:06:02 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 10:06:09 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 10:06:09 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 10:06:20 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 10:06:20 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 10:06:31 +0700][INFO] request: []
+[Thu, 16 Jan 20 10:06:31 +0700][ERROR] ["cam_id is required","person_count is required"]
+[Thu, 16 Jan 20 10:06:38 +0700][INFO] request: {"cam_id":"1","person_count":"2"}
+[Thu, 16 Jan 20 10:06:38 +0700][INFO] response: 
+[Thu, 16 Jan 20 10:06:57 +0700][INFO] request: {"cam_id":"2","person_count":"4"}
+[Thu, 16 Jan 20 10:06:57 +0700][INFO] response: 
+[Thu, 16 Jan 20 10:47:01 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 10:47:01 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 10:49:17 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 10:49:17 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 10:49:19 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 10:49:19 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 10:51:36 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 10:51:36 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 10:51:40 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 10:51:40 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:12:21 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:12:21 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:14:04 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:14:04 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:24:56 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:24:56 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:25:15 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:25:15 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:25:17 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:25:17 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:29:58 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:29:58 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:30:09 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:30:09 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:30:41 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:30:41 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:30:42 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:30:42 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:30:44 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:30:44 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:31:10 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:31:10 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:31:30 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:31:30 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:32:12 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:32:12 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:32:21 +0700][INFO] request: {"person_count":"4"}
+[Thu, 16 Jan 20 11:32:21 +0700][ERROR] ["cam_id is required"]
+[Thu, 16 Jan 20 11:33:34 +0700][INFO] request: {"person_count":"4"}
+[Thu, 16 Jan 20 11:33:34 +0700][ERROR] ["cam_id is required"]
+[Thu, 16 Jan 20 11:34:42 +0700][INFO] request: {"person_count":"4"}
+[Thu, 16 Jan 20 11:34:42 +0700][ERROR] ["cam_id is required"]
+[Thu, 16 Jan 20 11:34:48 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:34:48 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 11:42:17 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 11:42:17 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 12:11:27 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 12:11:27 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 12:11:32 +0700][INFO] request: []
+[Thu, 16 Jan 20 12:11:32 +0700][ERROR] ["cam_id is required","person_count is required"]
+[Thu, 16 Jan 20 12:11:36 +0700][INFO] request: {"cam_id":"2","person_count":"4"}
+[Thu, 16 Jan 20 12:12:33 +0700][INFO] request: {"cam_id":"2","person_count":"4"}
+[Thu, 16 Jan 20 12:12:37 +0700][INFO] request: {"cam_id":"2","person_count":"4"}
+[Thu, 16 Jan 20 12:12:43 +0700][INFO] request: {"cam_id":"2","person_count":"4"}
+[Thu, 16 Jan 20 12:13:40 +0700][INFO] request: {"cam_id":"2","person_count":"4"}
+[Thu, 16 Jan 20 12:13:45 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 12:13:45 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 12:14:14 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 12:14:14 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 12:14:19 +0700][INFO] request: {"cam_id":"2","person_count":"4"}
+[Thu, 16 Jan 20 12:14:19 +0700][INFO] response: 
+[Thu, 16 Jan 20 15:52:11 +0700][INFO] request: []
+[Thu, 16 Jan 20 15:52:11 +0700][ERROR] ["cam_id is required","person_count is required"]
+[Thu, 16 Jan 20 15:52:35 +0700][INFO] request: []
+[Thu, 16 Jan 20 15:52:35 +0700][ERROR] ["cam_id is required","person_count is required"]
+[Thu, 16 Jan 20 15:52:40 +0700][INFO] request: []
+[Thu, 16 Jan 20 15:52:40 +0700][ERROR] ["cam_id is required","person_count is required"]
+[Thu, 16 Jan 20 16:10:37 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:10:37 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:11:46 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:11:46 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:15:47 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:15:47 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:17:02 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:17:02 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:17:19 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:17:19 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:17:32 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:17:32 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:17:37 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:17:37 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:18:16 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:18:16 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:19:32 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:19:32 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:19:34 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:19:34 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:19:52 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:19:52 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:20:11 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:20:11 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:25:31 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:25:31 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:25:46 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:25:46 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:46:48 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:46:48 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:46:59 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:46:59 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:47:00 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:47:00 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:47:14 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:47:14 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:47:15 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:47:15 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:47:40 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:47:40 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:47:49 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:47:49 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:49:01 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:49:01 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:49:45 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:49:45 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:52:33 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:52:33 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 16:52:49 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 16:52:49 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:03:07 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 17:03:07 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:03:29 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 17:03:29 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:03:54 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 17:03:54 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:04:17 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 17:04:17 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:04:32 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 17:04:32 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:05:55 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 17:05:55 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:06:49 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 17:06:49 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:08:36 +0700][INFO] request: {"cam_id":"2"}
+[Thu, 16 Jan 20 17:08:36 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:23:11 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 17:23:11 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:24:39 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 17:24:39 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:25:38 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 17:25:38 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:25:48 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 17:25:48 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 17:45:22 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 17:45:22 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 18:00:58 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 18:00:58 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 18:01:27 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 18:01:27 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 18:01:50 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 18:01:50 +0700][ERROR] ["person_count is required"]
+[Thu, 16 Jan 20 18:02:04 +0700][INFO] request: {"cam_id":"1"}
+[Thu, 16 Jan 20 18:02:04 +0700][ERROR] ["person_count is required"]
